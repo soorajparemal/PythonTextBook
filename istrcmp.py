@@ -1,3 +1,4 @@
+#not case sensitive
 a=raw_input("Enter your Username :")
 b=raw_input("Re-enter your Username :")
 x= a.upper()
